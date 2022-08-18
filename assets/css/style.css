@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+@import url('http://fonts.cdnfonts.com/css/ds-digital');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    height: 770px;
+    background-color: rgb(173, 172, 172);
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    max-width: 500px;
+    width: 60%;
+    height: 60%;
+    border-radius: 50%;
+    padding: 10px;
+    margin-top: 5%;
+    background-color: rgb(0, 0, 0);
+    box-shadow: 0 0 10px rgb(37, 0, 0);
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'DS-Digital', sans-serif;
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    margin-top: 20%;
+    font-size: 6rem;
+}
+
+button {
+    padding: 10px;
+    outline: none;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+    transition: all .5s;
+    cursor: pointer;
+    border-radius: 10%;
+    margin-top: 20%;
+}
+
+button:hover.bg-green {
+    background-color: #50f550;
+}
+
+button:hover.bg-yellow {
+    background-color: #f2f550;
+}
+
+button:hover.bg-red {
+    background-color: #f55050;
+}
+
+button:active {
+    background-color: rgb(255, 255, 255);
+}
+
+.bg-green {
+    background-color: rgb(112, 112, 112);
+}
+
+.bg-yellow {
+    background-color: rgb(112, 112, 112);
+}
+
+.bg-red {
+    background-color: rgb(112, 112, 112);
+}
