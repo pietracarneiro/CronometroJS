@@ -1,6 +1,6 @@
 # Projeto: Cronômetro utilizando Javascript
 
-Olá, o projeto acima consistiu em criar um cronômetro com JS :timer_clock:
+Olá, o projeto acima consistiu em criar um cronômetro com JS ⏱️
 
 Ele possui funções bem simples (iniciar, pausar e parar), tentei setar um visual o mais parecido possível com um cronômetro digital de verdade, mudei a fonte do contador, tornei a div principal arredondada, etc.
 
